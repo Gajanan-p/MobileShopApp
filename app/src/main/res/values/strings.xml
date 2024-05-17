@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MobileShopApp</string>
+
+    <string name="your_string_here"><![CDATA[w<u>underline</u>.]]></string>
+
+    <string name="customer_name">Customer Name</string>
+    <string name="mobile_no">Mobile Number</string>
+    <string name="mo_comp_name">Mobile Comp Name</string>
+    <string name="model_no">Model</string>
+    <string name="problem">Problem</string>
+    <string name="address">Address</string>
+    <string name="amount">Total Amount</string>
+    <string name="deposit">Deposit</string>
+    <string name="pending">Pending</string>
+
+    <!--    menu bar -->
+
+    <string name="menu_search">Search</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_refresh">Refresh</string>
+
+    <!--    bottom menu bar-->
+
+    <string name="bottom_menu_handover">Handover</string>
+    <string name="bottom_menu_total">Today Collection</string>
+    <string name="bottom_menu_add">Registration</string>
+
+    <string name="total_collection">Todays Collection:</string>
+</resources>

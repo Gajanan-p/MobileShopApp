@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bottom_menu_action_outword"
+        android:title="@string/bottom_menu_handover"
+        android:icon="@drawable/baseline_collections_24"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/bottom_menu_action_registration"
+        android:title="@string/bottom_menu_add"
+        android:icon="@drawable/baseline_person_add_24"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/bottom_menu_action_collection"
+        android:title="@string/bottom_menu_total"
+        android:icon="@drawable/baseline_currency_rupee_24"
+        app:showAsAction="ifRoom"/>
+
+</menu>

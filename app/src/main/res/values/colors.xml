@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorPrimary">#78909c</color>
+    <color name="home_process_button">#ECF0F1</color>
+    <color name="green">#228B22</color>
+    <color name="colorPrimaryDark">#4b636e</color>
+    <color name="orange">#ff7043</color>
+    <color name="red">#CC0505</color>
+    <color name="logo_blue">#FF1F4E79</color>
+    <color name="req_bg">#EDFFFFFF</color>
+    <color name="req_bg_row">#EDECE9E9</color>
+    <color name="primary_color">#321fdb</color>
+    <color name="no_error">#EDECE9E9</color>
+    <color name="error">#F44336</color>
+    <color name="blue">#0E68C4</color>
+    <color name="production_color">#9BEB86</color>
+    <color name="dev_color">#C6E1FA</color>
+    <color name="QA_color">#F8C4AC</color>
+    <color name="rajput_logo_color">#ffd66e</color>
+    <color name="lavender">#8692f7</color>
+
+</resources>
